@@ -1,1 +1,1 @@
-# Quantum Resources for Quantum Machine Learning Hackathons
+# Resources for Quantum Machine Learning Hackathons
